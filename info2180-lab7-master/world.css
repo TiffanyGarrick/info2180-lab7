@@ -1,1 +1,9 @@
 /* Add your own styles */
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  border: 3px solid white;
+  padding: 10px;
+}
